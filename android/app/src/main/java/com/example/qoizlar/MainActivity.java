@@ -1,4 +1,4 @@
-package com.example.quizzler;
+package com.example.qoizlar;
 
 import io.flutter.embedding.android.FlutterActivity;
 
